@@ -62,7 +62,6 @@ Fiz esse projeto como exercício para aprender JavaScript, seguindo o tutorial d
 [Filipe Deschamps](https://github.com/filipedeschamps) sobre o
 [fogo do DOOM](https://youtu.be/fxm8cadCqbs).
 
-Até então eu só tinha programado em C, e foi aqui que caiu a ficha de como
-funcionam funções, variáveis, arrays e objetos em JavaScript. Os vídeos do Filipe
+Os vídeos do Filipe
 ensinam muito além da linguagem, ensinam a pensar como programador. Recomendo para
 qualquer pessoa que esteja começando.
