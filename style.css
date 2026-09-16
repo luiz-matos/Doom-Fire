@@ -1,0 +1,34 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+td{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: center;
+    font-family: monospace;
+    font-size: 18px;
+    position: relative;
+}
+
+.pixel-index{
+    font-size: 10px;
+    display: inline-block;
+    position: relative;
+    bottom: 21px;
+    left: 18px;
+    color: #999;
+}
+
+.pixel{
+    width: 8px;
+    height: 8px;
+    border: 0;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
