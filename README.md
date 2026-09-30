@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/JavaScript-puro-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript puro">
   <img src="https://img.shields.io/badge/HTML5-Table-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Table">
   <img src="https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS 3">
+  <img src="https://img.shields.io/badge/Licen%C3%A7a-MIT-yellow?style=for-the-badge" alt="Licença MIT">
 </div>
 
 <br>
@@ -21,6 +22,7 @@
 - [🐞 Modo debug](#-modo-debug)
 - [🚧 Limitação conhecida](#-limitação-conhecida)
 - [🎓 Aprendizado](#-aprendizado)
+- [📄 Licença](#-licença)
 
 ## 🧩 Como funciona
 
@@ -80,6 +82,10 @@ Fiz esse projeto como exercício para aprender JavaScript, seguindo o tutorial d
 Os vídeos do Filipe
 ensinam muito além da linguagem, ensinam a pensar como programador. Recomendo para
 qualquer pessoa que esteja começando.
+
+## 📄 Licença
+
+[MIT](LICENSE)
 
 ---
 
